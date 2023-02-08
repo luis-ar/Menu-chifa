@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(23, 23, 23);
+  overflow: hidden;
+}
+
+.titulo {
+  background-color: rgb(255, 60, 0);
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+  position: relative;
+}
+
+.titulo_nombre {
+  color: rgb(246, 244, 248);
+  font-style: italic;
+  font-size: 30px;
+  margin: auto;
+}
+.icono1_titulo {
+  position: absolute;
+  left: 40px;
+}
+.icono2_titulo {
+  position: absolute;
+  right: 40px;
+}
+.lista_menu {
+  color: white;
+  background-color: rgb(87, 87, 90);
+  height: 100%;
+  position: relative;
+  bottom: 10px;
+}
+h3 {
+  padding-bottom: 10px;
+  font-size: 15px;
+  text-align: center;
+}
+.icono3_titulo {
+  margin-left: 22%;
+  width: 220px;
+}
+.subtitulos {
+  text-align: center;
+}
+.datos{
+    padding-top: 40px;
+    padding-bottom: 1000px;
+}
