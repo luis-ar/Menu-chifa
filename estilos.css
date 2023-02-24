@@ -9,8 +9,10 @@ body {
   text-align: center;
   padding-top: 10px;
   position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-
 .titulo_nombre {
   color: rgb(246, 244, 248);
   font-style: italic;
@@ -18,12 +20,10 @@ body {
   margin: auto;
 }
 .icono1_titulo {
-  position: absolute;
-  left: 40px;
+  margin-right: 4%;
 }
 .icono2_titulo {
-  position: absolute;
-  right: 40px;
+  margin-left: 4%;
 }
 .lista_menu {
   color: white;
