@@ -51,7 +51,7 @@ h3 {
 .contenerdor_imagen {
   display: flex;
   justify-content: center;
-    right: 8%;
-
+  position: relative;
+  right: 8%;
 }
 
